@@ -1,4 +1,4 @@
-
+#list of name and object
 surya parkash
 manish
 devraj
@@ -8,13 +8,17 @@ harinandan
 raushan
 gautam
 abhinav
+pink 
+blue 
+red
 sonu
 satnam
 shukhbinder
 amardeep
 harpal
 rahul
-ravi kumar
+raju
+
 
 
 
