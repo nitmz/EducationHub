@@ -8,6 +8,9 @@ harinandan
 raushan
 gautam
 abhinav
+pink 
+blue 
+red
 sonu
 satnam
 shukhbinder
