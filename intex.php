@@ -14,7 +14,7 @@ shukhbinder
 amardeep
 harpal
 rahul
-ravi kumar
+
 
 
 
